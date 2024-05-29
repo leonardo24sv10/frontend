@@ -22,4 +22,22 @@ EX.: <img src="foto.png" alt="foto do cliente">
  (chrome, opera, edge, firefox, safari, yandex, brave, tor...)
  br= quebra de linha 
  h1= titulo
+
+ CSS, o que é?
+
+ CSS-Cascad style shett (Folha de estilio em Cascata)
+ O css é utilizado para fazer formatação em páginas HTMl.
+
+ E você pode aplicar o css de 3 formas:
+ - Arquivo externo css 
+ - Embutir o css na tag head da pagina html
+ - Aplicar diretamente na tag html desejada 
+
+ Há também 3 elementos de aplicação:
+
+ - ID indetificador, usamos hashtag #
+ - Class clasese, usamos ponto.
+ - Tag tag html
+
+ 
  

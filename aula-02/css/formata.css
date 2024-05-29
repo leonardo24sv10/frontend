@@ -1,0 +1,13 @@
+body{
+    /* backgorund-color muda a cor de fundo da página */
+    background-color: blueviolet;
+}
+
+h1{
+    /* mudar a letra do texto com font-family */
+    font-family:Arial, Helvetica, sans-serif;
+    /* mudar o tamanho da letra */
+    font-size: 40pt;
+    /* alinhamento do texto ao centro */
+    text-align: center;
+}
